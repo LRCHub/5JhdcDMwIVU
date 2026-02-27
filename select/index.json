@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "終点",
+  "base_track": "終点 - Terminal",
   "base_artist": "V.W.P",
-  "createdAt": "2026-02-26T05:57:27.041325Z",
+  "createdAt": "2026-02-27T11:07:45.278933Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -31,82 +31,82 @@
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Capolinea / 終点",
-      "artist": "Quercia",
+      "title": "終点",
+      "artist": "DUSTCELL",
       "has_synced": true,
-      "path": "select/04_Capolinea___終点_Quercia.lrc"
+      "path": "select/04_終点_DUSTCELL.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
       "title": "終点",
-      "artist": "DUSTCELL",
+      "artist": "cosMo@暴走P",
       "has_synced": true,
-      "path": "select/05_終点_DUSTCELL.lrc"
+      "path": "select/05_終点_cosMo@暴走P.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
       "title": "終点",
-      "artist": "cosMo@暴走P",
+      "artist": "cosMo@BousouP feat. Hatsune, Miku",
       "has_synced": true,
-      "path": "select/06_終点_cosMo@暴走P.lrc"
+      "path": "select/06_終点_cosMo@BousouP_feat._Hatsune,_Miku.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
       "title": "終点",
-      "artist": "cosMo@BousouP feat. Hatsune, Miku",
+      "artist": "cosMo@BousouP",
       "has_synced": true,
-      "path": "select/07_終点_cosMo@BousouP_feat._Hatsune,_Miku.lrc"
+      "path": "select/07_終点_cosMo@BousouP.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
       "title": "終点",
-      "artist": "cosMo@BousouP",
+      "artist": "cosMo@暴走P Feat. 初音ミク",
       "has_synced": true,
-      "path": "select/08_終点_cosMo@BousouP.lrc"
+      "path": "select/08_終点_cosMo@暴走P_Feat._初音ミク.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
       "title": "終点",
-      "artist": "cosMo@暴走P Feat. 初音ミク",
-      "has_synced": true,
-      "path": "select/09_終点_cosMo@暴走P_Feat._初音ミク.lrc"
+      "artist": "泉谷しげる",
+      "has_synced": false,
+      "path": "select/09_終点_泉谷しげる.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "終点 (THE END)",
-      "artist": "cosMo@bousouP",
+      "title": "終点",
+      "artist": "cosMo feat. 初音ミク",
       "has_synced": true,
-      "path": "select/10_終点_(THE_END)_cosMo@bousouP.lrc"
+      "path": "select/10_終点_cosMo_feat._初音ミク.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "トラック08　終点（エピローグ）",
-      "artist": "桃狐の変態調教課題",
+      "title": "Capolinea / 終点",
+      "artist": "Quercia",
       "has_synced": true,
-      "path": "select/11_トラック08_終点(エピローグ)_桃狐の変態調教課題.lrc"
+      "path": "select/11_Capolinea___終点_Quercia.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "終点",
-      "artist": "泉谷しげる",
-      "has_synced": false,
-      "path": "select/12_終点_泉谷しげる.txt"
+      "title": "終点 (THE END)",
+      "artist": "cosMo@bousouP",
+      "has_synced": true,
+      "path": "select/12_終点_(THE_END)_cosMo@bousouP.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "終点",
-      "artist": "cosMo feat. 初音ミク",
+      "title": "トラック08　終点（エピローグ）",
+      "artist": "桃狐の変態調教課題",
       "has_synced": true,
-      "path": "select/13_終点_cosMo_feat._初音ミク.lrc"
+      "path": "select/13_トラック08_終点(エピローグ)_桃狐の変態調教課題.lrc"
     },
     {
       "id": "petitlyrics_1",
